@@ -1,0 +1,25 @@
+
+program1 - the filemaker
+take in list of students names
+take in name of the assignment
+take in dict of the question numbers and how many points each question is worth
+
+make a folder to store folders
+make a folder inside that folder for each student named correctly
+create an excel file for each one of them
+	the file should be named correctly and have a table of question numbers
+	and how much they are worth. a column should be left for the points 
+	earned. correct calculations for the total should be made.
+
+
+program2 - the filegrader
+open the first students excel file
+print the students name
+take input for (grade for question 1,2,3, and so on)
+print the grades for each question out and print the total
+ask if its any changes need to be made
+if not
+	write the grades into the file
+	move on to the next student
+		repeat
+
